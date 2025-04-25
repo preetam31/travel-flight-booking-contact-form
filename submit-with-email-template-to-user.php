@@ -65,21 +65,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           <div style="text-align:center; margin: 20px 0;">
   <a href="tel:+19000000000"
      style="display:inline-block;padding:10px 20px;background:#265eaa;color:#fff;text-decoration:none;border-radius:5px;font-size:16px;margin-right:10px;">
-    <img src="assets/images/email/call-icon.png"
+    <img src="assets/images/call-icon.png"
          alt="Call" style="vertical-align:middle;margin-right:10px;" height="16">
     Call
   </a>
 
   <a href="https://wa.me/+190000000?text=Please%20kindly%20assist%20me%20with%20my%20Travel%20Request.%20"
      style="display:inline-block;padding:10px 20px;background:#26a619;color:#fff;text-decoration:none;border-radius:5px;font-size:16px;">
-    <img src="assets/images/email/wahtsapp-icon.png"
+    <img src="assets/images/wahtsapp-icon.png"
          alt="Chat" width="16" style="vertical-align:middle;margin-right:10px;">
     Chat
   </a>
 </div>
 
           <p><strong>Call to book the top-rated airlines!</strong></p>
-          <img src="assets/images/email/airlines-logo.jpg" width="100%" style="border-radius:6px;" alt="Airlines">
+          <img src="assets/images/airlines-logo.jpg" width="100%" style="border-radius:6px;" alt="Airlines">
 
           <p>These are specially negotiated airfares and cannot be sold online.</p>
 
